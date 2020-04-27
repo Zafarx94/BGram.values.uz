@@ -1,1 +1,1 @@
-# readme
+# BGram uzbek localization
